@@ -1,0 +1,4 @@
+
+<entity bx="19200" by="5" bz="19200" class="Player" displayName="0" facing="5.2631616592407" item_id="30002" motionX="0" motionY="0" motionZ="0" name="default" onGround="true" rotationYaw="5.2631616592407">
+	<abilities/>
+</entity>
