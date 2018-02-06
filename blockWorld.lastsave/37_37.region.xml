@@ -1,0 +1,9 @@
+
+<entities file_version="0.1">
+	<entity bx="19200" by="5" bz="19199" class="EntityCommandBlock" item_id="212">
+		<inventory>
+			<slot count="1" id="10054">Scanner.lua
+			</slot>
+		</inventory>
+	</entity>
+</entities>
