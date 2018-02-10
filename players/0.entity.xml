@@ -1,6 +1,6 @@
 
-<entity anim="Break" bx="19199" by="8" bz="19198" class="Player" displayName="0" facing="-0.98065859079361" item_id="30002" motionX="0" motionY="0" motionZ="0" name="default" rotationYaw="-0.98065859079361">
-	<inventory handtool_bagpos="3">
+<entity anim="Break" bx="19183" by="13" bz="19255" class="Player" displayName="0" facing="-0.066641800105572" item_id="30002" motionX="0" motionY="0" motionZ="0" name="default" rotationYaw="-0.066641800105572">
+	<inventory handtool_bagpos="4">
 		<slot count="1" id="73">{color=12632256,}
 		</slot>
 		<slot count="1" id="211"/>
