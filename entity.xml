@@ -13,6 +13,8 @@
 		<rulebag>
 			<slot count="1" id="10059">/speedscale 5
 			</slot>
+			<slot count="1" id="10054">Init.lua
+			</slot>
 		</rulebag>
 	</entity>
 </entities>
