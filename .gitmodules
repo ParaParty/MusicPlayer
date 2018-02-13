@@ -1,0 +1,3 @@
+[submodule "script/blocks/Lib"]
+	path = script/blocks/Lib
+	url = https://github.com/ParaParty/ParaLib.git
