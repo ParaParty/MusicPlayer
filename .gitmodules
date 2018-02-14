@@ -1,3 +1,6 @@
 [submodule "script/blocks/Lib"]
 	path = script/blocks/Lib
 	url = https://github.com/ParaParty/ParaLib.git
+[submodule "Lib"]
+	path = Lib
+	url = D:\\Program Files\\Paracraft创意空间\\worlds\\DesignHouse\\MusicPlayer\\script\\blocks\\Lib

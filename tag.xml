@@ -1,4 +1,4 @@
 
 <pe:mcml>
-	<pe:world create_date="2018-2-5" desc="" name="MusicPlayer" nid="" renderdist="" rendermethod="" seed="MusicPlayer" shadow="" size="50807" texture_pack_path="worlds/BlockTextures/official/Paracraft32xMixed_r1.zip" texture_pack_text="混搭材质包" texture_pack_type="official" texture_pack_url="http://www.paraengine.com/twiki/pub/CCWeb/RecommendedTextureListData/Paracraft32xMixed.zip" totaltime="0" waterreflection="" world_generator="superflat"/>
+	<pe:world create_date="2018-2-5" desc="" name="MusicPlayer" nid="" renderdist="" rendermethod="" seed="MusicPlayer" shadow="" size="68879" texture_pack_path="worlds/BlockTextures/official/Paracraft32xMixed_r1.zip" texture_pack_text="混搭材质包" texture_pack_type="official" texture_pack_url="http://www.paraengine.com/twiki/pub/CCWeb/RecommendedTextureListData/Paracraft32xMixed.zip" totaltime="0" waterreflection="" world_generator="superflat"/>
 </pe:mcml>
