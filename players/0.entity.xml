@@ -1,14 +1,17 @@
 
-<entity anim="Create" bx="19199" by="5" bz="19195" class="Player" displayName="0" facing="2.0447108745575" item_id="30002" motionX="0" motionY="0" motionZ="0" name="default" onGround="true" rotationYaw="2.0447108745575">
-	<inventory handtool_bagpos="5">
+<entity anim="Break" bx="19200" by="5" bz="19194" class="Player" displayName="0" facing="15.376919746399" item_id="30002" motionX="0" motionY="0" motionZ="0" name="default" onGround="true" rotationYaw="15.376919746399">
+	<inventory handtool_bagpos="6">
 		<slot count="1" id="10054">{tooltip="步进","Scanner.lua",}
 		</slot>
 		<slot count="1" id="10054">{tooltip="初始化","Init.lua",}
 		</slot>
-		<slot/>
+		<slot count="1" id="10054">Lib/Paralib.lua
+		</slot>
 		<slot count="1" id="215"/>
 		<slot count="1" id="212"/>
-		<slot/>
+		<slot count="1" id="157"/>
+		<slot count="1" id="197"/>
+		<slot count="1" id="189"/>
 		<slot count="1" id="105"/>
 	</inventory>
 	<abilities/>
