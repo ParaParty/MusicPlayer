@@ -31,7 +31,7 @@ function main(entity)
 	cmd("/tip -debug It is working at "..globalData.lineIndex..".");
 	globalData.lineIndex  = globalData.lineIndex + 1;
 	--创建自循环
-	entity:SetFrameMoveInterval(1/15);
+	entity:SetFrameMoveInterval(1/globalData.fps);
 	cmd("/t 0.01/activate",nil,entity);
 end
 
@@ -70,7 +70,7 @@ end
 --应用所有的灯
 function ApplyLights()
 	for k, position in ipairs(Lights) do
-		BlockEngine:SetBlock(position[1],position[2],position[3],157,1,3);
+		BlockEngine:SetBlock(position[1],position[2],position[3],6,1,1);
 	end
 	for k, position in ipairs(LightColumns) do
 		for k2, position2 in ipairs(GetBlockPositions(position[1], position[2], position[3], 0, LightColumnHeight - 1, 0)) do
@@ -81,7 +81,7 @@ end
 --删去所有的灯
 function ClearLights()
 	for k,position in ipairs(Lights) do
-		BlockEngine:SetBlock(position[1],position[2],position[3],0,1,0);
+		BlockEngine:SetBlock(position[1],position[2],position[3],0,1,1);
 	end
 	Lights = {};
 	for k,position in ipairs(LightColumns) do
